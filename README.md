@@ -1,24 +1,12 @@
-# vagas-front1
+###
+Projeto realizado para prática e aplicação dos conceitos estudados de VueJS 3
 
-## Project setup
-```
-npm install
-```
+###
+Conceito
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+-- Temos uma navegação simples entre a página inicial e o index de publicação de vagas, sendo assim, podemos publicar uma vaga que será armazenada em Local Storage permitindo que possamos replicar a mesma na página inicial.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+###
+Ressalvas
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+O contador de usuários online é apenas um número randomico que alterna em um intervalo de tempo definido
