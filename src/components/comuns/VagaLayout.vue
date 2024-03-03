@@ -23,6 +23,7 @@
             <small class="text-muted">Salário: R$ {{ salario }} | Modalidade: {{ getModalidade }} | Tipo: {{ getTipo }} |
                 Publicação: {{ getPublicacao }}</small>
         </div>
+        
     </div>
 </template>
 
@@ -109,5 +110,6 @@ export default {
             return dataPublicacao.toLocaleDateString('pt-BR')
         }
     },
+    
 }
 </script>

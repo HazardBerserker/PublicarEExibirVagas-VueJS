@@ -1,18 +1,21 @@
-###
-```
-Projeto realizado para prática e aplicação dos conceitos estudados de VueJS 3
-```
+<h1 style="color: aquamarine;">VueJS 3 Project - Job Board</h1>
 
-###
-```
-Conceito
-```
+# Description:
 
--- Temos uma navegação simples entre a página inicial e o index de publicação de vagas, sendo assim, podemos publicar uma vaga que será armazenada em Local Storage permitindo que possamos replicar a mesma na página inicial.
+This project was developed for hands-on practice and application of VueJS 3 concepts. It features a simple navigation system between the homepage and the job posting index. Users can publish job listings, which are then stored in Local Storage for replication on the homepage.
 
-###
-```
-Ressalvas
-```
+# Key Features:
 
-O contador de usuários online é apenas um número randomico que alterna em um intervalo de tempo definido
+User-friendly navigation between the homepage and job posting index.
+Job listings can be published and are stored in Local Storage.
+Randomized online user counter updates at defined intervals.
+Usage:
+
+Clone the repository to your local machine.
+Open the project in your preferred code editor.
+Launch the project using a VueJS 3 development server.
+Explore the simple navigation and job posting features.
+Experiment with the random online user counter.
+Feel free to contribute or provide feedback!
+
+Note: This project is intended for educational purposes and practical application of VueJS 3 concepts.
