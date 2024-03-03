@@ -19,3 +19,7 @@ Experiment with the random online user counter.
 Feel free to contribute or provide feedback!
 
 Note: This project is intended for educational purposes and practical application of VueJS 3 concepts.
+
+# Extra
+
+You need to refresh the page after posting a job, paging only works if there are six or more job openings in Local Storage
