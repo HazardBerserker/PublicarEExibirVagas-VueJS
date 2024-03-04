@@ -48,19 +48,19 @@
 
 
     <div class="row mt-5">
-      <div class="col-4">
-        <indicador-layout titulo="Vagas abertas" indicador="100" bg="bg-dark" color="text-white"></indicador-layout>
-      </div>
 
-      <div class="col-4">
+        <indicador-layout titulo="Vagas abertas" indicador="100" bg="bg-dark" color="text-white"></indicador-layout>
+
+
+
         <indicador-layout titulo="Profissionais cadastrados" indicador="225" bg="bg-dark"
           color="text-white"></indicador-layout>
-      </div>
 
-      <div class="col-4">
+
+
         <indicador-layout titulo="Visitantes online" :indicador="usuariosOnline" bg="bg-light"
           color="text-dark"></indicador-layout>
-      </div>
+
     </div>
 
   </div>
